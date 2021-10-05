@@ -8,3 +8,7 @@ def multiply(x, y):
 def print_ans(x,y):
   ans = multiply(x,y)
   print(ans)
+ 
+
+def divide(x, y):
+  return x * y
