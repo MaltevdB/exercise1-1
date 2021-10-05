@@ -11,4 +11,4 @@ def print_ans(x,y):
  
 
 def divide(x, y):
-  return x * y
+  return x / y
